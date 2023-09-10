@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="adLam">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/adlam</item>
+    </style>
+
+    <style name="freckle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/freckle</item>
+    </style>
+
+    <style name="kuaile">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/kuaile</item>
+    </style>
+
+    <style name="piedra">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/piedra</item>
+    </style>
+
+    <style name="rubik">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/rubik</item>
+    </style>
+
+    <style name="qingke">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/qingke</item>
+    </style>
+
+    <style name="shojumaru">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/shojumaru</item>
+    </style>
+
+    <style name="teko">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">@font/teko</item>
+    </style>
+
+</resources>
